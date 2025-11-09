@@ -2,7 +2,7 @@
 
 ---
 
-![Project Thumbnail](customer_segmentation.png)
+![Project Thumbnail](customer-segmentation.png)
 
 ---
 
